@@ -1,3 +1,4 @@
+![CloudBox 7 Logo. But I don't allow you to download my image!!! >:C](https://firebasestorage.googleapis.com/v0/b/drive-clone-6f3ee.appspot.com/o/files%2FScreenshot%202025-03-08%20195953.png?alt=media&token=6af827aa-4d2c-44a7-bbae-85a9ca9f8f98 "This is just a logo...")
 # CLOUDBOX 7 - Official website to store your data.
 # How to coding Google Drive like CloudBox?
 The best question! But you don't "code Google Drive" directly in the sense of modifying its underlying code. Google Drive is a massive, complex system managed entirely by Google.  Instead, you code *applications and integrations* that interact with Google Drive's APIs.  This lets you access and manipulate files, folders, and other Drive data.
